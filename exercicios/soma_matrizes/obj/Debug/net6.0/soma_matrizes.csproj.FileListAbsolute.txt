@@ -1,0 +1,15 @@
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\soma_matrizes\bin\Debug\net6.0\soma_matrizes.exe
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\soma_matrizes\bin\Debug\net6.0\soma_matrizes.deps.json
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\soma_matrizes\bin\Debug\net6.0\soma_matrizes.runtimeconfig.json
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\soma_matrizes\bin\Debug\net6.0\soma_matrizes.dll
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\soma_matrizes\bin\Debug\net6.0\soma_matrizes.pdb
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\soma_matrizes\obj\Debug\net6.0\soma_matrizes.csproj.AssemblyReference.cache
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\soma_matrizes\obj\Debug\net6.0\soma_matrizes.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\soma_matrizes\obj\Debug\net6.0\soma_matrizes.AssemblyInfoInputs.cache
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\soma_matrizes\obj\Debug\net6.0\soma_matrizes.AssemblyInfo.cs
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\soma_matrizes\obj\Debug\net6.0\soma_matrizes.csproj.CoreCompileInputs.cache
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\soma_matrizes\obj\Debug\net6.0\soma_matrizes.dll
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\soma_matrizes\obj\Debug\net6.0\refint\soma_matrizes.dll
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\soma_matrizes\obj\Debug\net6.0\soma_matrizes.pdb
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\soma_matrizes\obj\Debug\net6.0\soma_matrizes.genruntimeconfig.cache
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\soma_matrizes\obj\Debug\net6.0\ref\soma_matrizes.dll

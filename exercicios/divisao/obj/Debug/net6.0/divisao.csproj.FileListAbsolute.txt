@@ -1,0 +1,15 @@
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\divisao\bin\Debug\net6.0\divisao.exe
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\divisao\bin\Debug\net6.0\divisao.deps.json
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\divisao\bin\Debug\net6.0\divisao.runtimeconfig.json
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\divisao\bin\Debug\net6.0\divisao.dll
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\divisao\bin\Debug\net6.0\divisao.pdb
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\divisao\obj\Debug\net6.0\divisao.csproj.AssemblyReference.cache
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\divisao\obj\Debug\net6.0\divisao.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\divisao\obj\Debug\net6.0\divisao.AssemblyInfoInputs.cache
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\divisao\obj\Debug\net6.0\divisao.AssemblyInfo.cs
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\divisao\obj\Debug\net6.0\divisao.csproj.CoreCompileInputs.cache
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\divisao\obj\Debug\net6.0\divisao.dll
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\divisao\obj\Debug\net6.0\refint\divisao.dll
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\divisao\obj\Debug\net6.0\divisao.pdb
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\divisao\obj\Debug\net6.0\divisao.genruntimeconfig.cache
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\divisao\obj\Debug\net6.0\ref\divisao.dll

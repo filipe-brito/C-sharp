@@ -1,0 +1,15 @@
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\media_ponderada\bin\Debug\net6.0\media_ponderada.exe
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\media_ponderada\bin\Debug\net6.0\media_ponderada.deps.json
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\media_ponderada\bin\Debug\net6.0\media_ponderada.runtimeconfig.json
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\media_ponderada\bin\Debug\net6.0\media_ponderada.dll
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\media_ponderada\bin\Debug\net6.0\media_ponderada.pdb
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\media_ponderada\obj\Debug\net6.0\media_ponderada.csproj.AssemblyReference.cache
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\media_ponderada\obj\Debug\net6.0\media_ponderada.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\media_ponderada\obj\Debug\net6.0\media_ponderada.AssemblyInfoInputs.cache
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\media_ponderada\obj\Debug\net6.0\media_ponderada.AssemblyInfo.cs
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\media_ponderada\obj\Debug\net6.0\media_ponderada.csproj.CoreCompileInputs.cache
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\media_ponderada\obj\Debug\net6.0\media_ponderada.dll
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\media_ponderada\obj\Debug\net6.0\refint\media_ponderada.dll
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\media_ponderada\obj\Debug\net6.0\media_ponderada.pdb
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\media_ponderada\obj\Debug\net6.0\media_ponderada.genruntimeconfig.cache
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\media_ponderada\obj\Debug\net6.0\ref\media_ponderada.dll

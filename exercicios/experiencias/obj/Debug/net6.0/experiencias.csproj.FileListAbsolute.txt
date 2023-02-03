@@ -1,0 +1,15 @@
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\experiencias\bin\Debug\net6.0\experiencias.exe
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\experiencias\bin\Debug\net6.0\experiencias.deps.json
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\experiencias\bin\Debug\net6.0\experiencias.runtimeconfig.json
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\experiencias\bin\Debug\net6.0\experiencias.dll
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\experiencias\bin\Debug\net6.0\experiencias.pdb
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\experiencias\obj\Debug\net6.0\experiencias.csproj.AssemblyReference.cache
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\experiencias\obj\Debug\net6.0\experiencias.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\experiencias\obj\Debug\net6.0\experiencias.AssemblyInfoInputs.cache
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\experiencias\obj\Debug\net6.0\experiencias.AssemblyInfo.cs
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\experiencias\obj\Debug\net6.0\experiencias.csproj.CoreCompileInputs.cache
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\experiencias\obj\Debug\net6.0\experiencias.dll
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\experiencias\obj\Debug\net6.0\refint\experiencias.dll
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\experiencias\obj\Debug\net6.0\experiencias.pdb
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\experiencias\obj\Debug\net6.0\experiencias.genruntimeconfig.cache
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\experiencias\obj\Debug\net6.0\ref\experiencias.dll

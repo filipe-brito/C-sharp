@@ -1,0 +1,15 @@
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\media_pares\bin\Debug\net6.0\media_pares.exe
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\media_pares\bin\Debug\net6.0\media_pares.deps.json
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\media_pares\bin\Debug\net6.0\media_pares.runtimeconfig.json
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\media_pares\bin\Debug\net6.0\media_pares.dll
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\media_pares\bin\Debug\net6.0\media_pares.pdb
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\media_pares\obj\Debug\net6.0\media_pares.csproj.AssemblyReference.cache
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\media_pares\obj\Debug\net6.0\media_pares.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\media_pares\obj\Debug\net6.0\media_pares.AssemblyInfoInputs.cache
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\media_pares\obj\Debug\net6.0\media_pares.AssemblyInfo.cs
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\media_pares\obj\Debug\net6.0\media_pares.csproj.CoreCompileInputs.cache
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\media_pares\obj\Debug\net6.0\media_pares.dll
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\media_pares\obj\Debug\net6.0\refint\media_pares.dll
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\media_pares\obj\Debug\net6.0\media_pares.pdb
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\media_pares\obj\Debug\net6.0\media_pares.genruntimeconfig.cache
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\media_pares\obj\Debug\net6.0\ref\media_pares.dll

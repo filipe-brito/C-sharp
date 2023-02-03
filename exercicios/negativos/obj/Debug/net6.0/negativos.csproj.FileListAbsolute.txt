@@ -1,0 +1,15 @@
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\negativos\bin\Debug\net6.0\negativos.exe
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\negativos\bin\Debug\net6.0\negativos.deps.json
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\negativos\bin\Debug\net6.0\negativos.runtimeconfig.json
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\negativos\bin\Debug\net6.0\negativos.dll
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\negativos\bin\Debug\net6.0\negativos.pdb
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\negativos\obj\Debug\net6.0\negativos.csproj.AssemblyReference.cache
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\negativos\obj\Debug\net6.0\negativos.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\negativos\obj\Debug\net6.0\negativos.AssemblyInfoInputs.cache
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\negativos\obj\Debug\net6.0\negativos.AssemblyInfo.cs
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\negativos\obj\Debug\net6.0\negativos.csproj.CoreCompileInputs.cache
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\negativos\obj\Debug\net6.0\negativos.dll
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\negativos\obj\Debug\net6.0\refint\negativos.dll
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\negativos\obj\Debug\net6.0\negativos.pdb
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\negativos\obj\Debug\net6.0\negativos.genruntimeconfig.cache
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\negativos\obj\Debug\net6.0\ref\negativos.dll

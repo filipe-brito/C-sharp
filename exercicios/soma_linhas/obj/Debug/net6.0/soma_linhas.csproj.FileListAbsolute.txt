@@ -1,0 +1,15 @@
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\soma_linhas\bin\Debug\net6.0\soma_linhas.exe
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\soma_linhas\bin\Debug\net6.0\soma_linhas.deps.json
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\soma_linhas\bin\Debug\net6.0\soma_linhas.runtimeconfig.json
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\soma_linhas\bin\Debug\net6.0\soma_linhas.dll
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\soma_linhas\bin\Debug\net6.0\soma_linhas.pdb
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\soma_linhas\obj\Debug\net6.0\soma_linhas.csproj.AssemblyReference.cache
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\soma_linhas\obj\Debug\net6.0\soma_linhas.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\soma_linhas\obj\Debug\net6.0\soma_linhas.AssemblyInfoInputs.cache
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\soma_linhas\obj\Debug\net6.0\soma_linhas.AssemblyInfo.cs
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\soma_linhas\obj\Debug\net6.0\soma_linhas.csproj.CoreCompileInputs.cache
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\soma_linhas\obj\Debug\net6.0\soma_linhas.dll
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\soma_linhas\obj\Debug\net6.0\refint\soma_linhas.dll
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\soma_linhas\obj\Debug\net6.0\soma_linhas.pdb
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\soma_linhas\obj\Debug\net6.0\soma_linhas.genruntimeconfig.cache
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\soma_linhas\obj\Debug\net6.0\ref\soma_linhas.dll

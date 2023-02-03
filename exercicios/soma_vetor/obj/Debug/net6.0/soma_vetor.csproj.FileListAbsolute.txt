@@ -1,0 +1,15 @@
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\soma_vetor\bin\Debug\net6.0\soma_vetor.exe
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\soma_vetor\bin\Debug\net6.0\soma_vetor.deps.json
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\soma_vetor\bin\Debug\net6.0\soma_vetor.runtimeconfig.json
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\soma_vetor\bin\Debug\net6.0\soma_vetor.dll
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\soma_vetor\bin\Debug\net6.0\soma_vetor.pdb
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\soma_vetor\obj\Debug\net6.0\soma_vetor.csproj.AssemblyReference.cache
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\soma_vetor\obj\Debug\net6.0\soma_vetor.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\soma_vetor\obj\Debug\net6.0\soma_vetor.AssemblyInfoInputs.cache
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\soma_vetor\obj\Debug\net6.0\soma_vetor.AssemblyInfo.cs
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\soma_vetor\obj\Debug\net6.0\soma_vetor.csproj.CoreCompileInputs.cache
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\soma_vetor\obj\Debug\net6.0\soma_vetor.dll
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\soma_vetor\obj\Debug\net6.0\refint\soma_vetor.dll
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\soma_vetor\obj\Debug\net6.0\soma_vetor.pdb
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\soma_vetor\obj\Debug\net6.0\soma_vetor.genruntimeconfig.cache
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\soma_vetor\obj\Debug\net6.0\ref\soma_vetor.dll

@@ -1,0 +1,15 @@
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\abaixo_da_media\bin\Debug\net6.0\abaixo_da_media.exe
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\abaixo_da_media\bin\Debug\net6.0\abaixo_da_media.deps.json
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\abaixo_da_media\bin\Debug\net6.0\abaixo_da_media.runtimeconfig.json
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\abaixo_da_media\bin\Debug\net6.0\abaixo_da_media.dll
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\abaixo_da_media\bin\Debug\net6.0\abaixo_da_media.pdb
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\abaixo_da_media\obj\Debug\net6.0\abaixo_da_media.csproj.AssemblyReference.cache
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\abaixo_da_media\obj\Debug\net6.0\abaixo_da_media.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\abaixo_da_media\obj\Debug\net6.0\abaixo_da_media.AssemblyInfoInputs.cache
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\abaixo_da_media\obj\Debug\net6.0\abaixo_da_media.AssemblyInfo.cs
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\abaixo_da_media\obj\Debug\net6.0\abaixo_da_media.csproj.CoreCompileInputs.cache
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\abaixo_da_media\obj\Debug\net6.0\abaixo_da_media.dll
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\abaixo_da_media\obj\Debug\net6.0\refint\abaixo_da_media.dll
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\abaixo_da_media\obj\Debug\net6.0\abaixo_da_media.pdb
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\abaixo_da_media\obj\Debug\net6.0\abaixo_da_media.genruntimeconfig.cache
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\abaixo_da_media\obj\Debug\net6.0\ref\abaixo_da_media.dll

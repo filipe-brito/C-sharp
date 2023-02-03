@@ -1,0 +1,15 @@
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\maior_posicao\bin\Debug\net6.0\maior_posicao.exe
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\maior_posicao\bin\Debug\net6.0\maior_posicao.deps.json
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\maior_posicao\bin\Debug\net6.0\maior_posicao.runtimeconfig.json
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\maior_posicao\bin\Debug\net6.0\maior_posicao.dll
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\maior_posicao\bin\Debug\net6.0\maior_posicao.pdb
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\maior_posicao\obj\Debug\net6.0\maior_posicao.csproj.AssemblyReference.cache
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\maior_posicao\obj\Debug\net6.0\maior_posicao.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\maior_posicao\obj\Debug\net6.0\maior_posicao.AssemblyInfoInputs.cache
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\maior_posicao\obj\Debug\net6.0\maior_posicao.AssemblyInfo.cs
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\maior_posicao\obj\Debug\net6.0\maior_posicao.csproj.CoreCompileInputs.cache
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\maior_posicao\obj\Debug\net6.0\maior_posicao.dll
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\maior_posicao\obj\Debug\net6.0\refint\maior_posicao.dll
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\maior_posicao\obj\Debug\net6.0\maior_posicao.pdb
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\maior_posicao\obj\Debug\net6.0\maior_posicao.genruntimeconfig.cache
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\maior_posicao\obj\Debug\net6.0\ref\maior_posicao.dll

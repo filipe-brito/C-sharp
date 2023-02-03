@@ -1,0 +1,15 @@
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\matriz_geral\bin\Debug\net6.0\matriz_geral.exe
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\matriz_geral\bin\Debug\net6.0\matriz_geral.deps.json
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\matriz_geral\bin\Debug\net6.0\matriz_geral.runtimeconfig.json
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\matriz_geral\bin\Debug\net6.0\matriz_geral.dll
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\matriz_geral\bin\Debug\net6.0\matriz_geral.pdb
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\matriz_geral\obj\Debug\net6.0\matriz_geral.csproj.AssemblyReference.cache
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\matriz_geral\obj\Debug\net6.0\matriz_geral.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\matriz_geral\obj\Debug\net6.0\matriz_geral.AssemblyInfoInputs.cache
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\matriz_geral\obj\Debug\net6.0\matriz_geral.AssemblyInfo.cs
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\matriz_geral\obj\Debug\net6.0\matriz_geral.csproj.CoreCompileInputs.cache
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\matriz_geral\obj\Debug\net6.0\matriz_geral.dll
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\matriz_geral\obj\Debug\net6.0\refint\matriz_geral.dll
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\matriz_geral\obj\Debug\net6.0\matriz_geral.pdb
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\matriz_geral\obj\Debug\net6.0\matriz_geral.genruntimeconfig.cache
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\matriz_geral\obj\Debug\net6.0\ref\matriz_geral.dll

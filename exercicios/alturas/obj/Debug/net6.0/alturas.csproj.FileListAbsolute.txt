@@ -1,0 +1,15 @@
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\alturas\bin\Debug\net6.0\alturas.exe
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\alturas\bin\Debug\net6.0\alturas.deps.json
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\alturas\bin\Debug\net6.0\alturas.runtimeconfig.json
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\alturas\bin\Debug\net6.0\alturas.dll
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\alturas\bin\Debug\net6.0\alturas.pdb
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\alturas\obj\Debug\net6.0\alturas.csproj.AssemblyReference.cache
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\alturas\obj\Debug\net6.0\alturas.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\alturas\obj\Debug\net6.0\alturas.AssemblyInfoInputs.cache
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\alturas\obj\Debug\net6.0\alturas.AssemblyInfo.cs
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\alturas\obj\Debug\net6.0\alturas.csproj.CoreCompileInputs.cache
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\alturas\obj\Debug\net6.0\alturas.dll
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\alturas\obj\Debug\net6.0\refint\alturas.dll
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\alturas\obj\Debug\net6.0\alturas.pdb
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\alturas\obj\Debug\net6.0\alturas.genruntimeconfig.cache
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\alturas\obj\Debug\net6.0\ref\alturas.dll

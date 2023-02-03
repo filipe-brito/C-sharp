@@ -1,0 +1,15 @@
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\comerciante\bin\Debug\net6.0\comerciante.exe
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\comerciante\bin\Debug\net6.0\comerciante.deps.json
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\comerciante\bin\Debug\net6.0\comerciante.runtimeconfig.json
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\comerciante\bin\Debug\net6.0\comerciante.dll
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\comerciante\bin\Debug\net6.0\comerciante.pdb
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\comerciante\obj\Debug\net6.0\comerciante.csproj.AssemblyReference.cache
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\comerciante\obj\Debug\net6.0\comerciante.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\comerciante\obj\Debug\net6.0\comerciante.AssemblyInfoInputs.cache
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\comerciante\obj\Debug\net6.0\comerciante.AssemblyInfo.cs
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\comerciante\obj\Debug\net6.0\comerciante.csproj.CoreCompileInputs.cache
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\comerciante\obj\Debug\net6.0\comerciante.dll
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\comerciante\obj\Debug\net6.0\refint\comerciante.dll
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\comerciante\obj\Debug\net6.0\comerciante.pdb
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\comerciante\obj\Debug\net6.0\comerciante.genruntimeconfig.cache
+F:\Projetos Filipe\Udemy\Exercícios\C#\exercicios\comerciante\obj\Debug\net6.0\ref\comerciante.dll
